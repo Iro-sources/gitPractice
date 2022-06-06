@@ -1,0 +1,2 @@
+udi = "statsborgerskap"
+print(udi)
